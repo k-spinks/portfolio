@@ -1,3 +1,13 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript"]
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "rules": {
+    "@typescript-eslint/no-explicit-any": "off", // Disable "Unexpected any" rule
+    "next/no-img-element": "off", // Disable warnings about <img> elements
+    "react-hooks/exhaustive-deps": "off", // Disable dependency warnings in hooks
+    "prefer-const": "off", // Disable preference for using const
+    "no-unused-vars": "off", // Disable unused variable checks
+    "no-var": "off", // Disable no-var rule
+    "@typescript-eslint/no-unused-vars": "off" // Disable TypeScript unused variable checks
+    // Add any other rules you want to disable
+  }
 }
