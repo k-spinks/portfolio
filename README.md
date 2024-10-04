@@ -3,7 +3,7 @@
 
 ![Portfolio Splash](/public/portfoliosplash.png)
 
-##How its made 
+## How its made 
 **Tech used:**HTML, CSS, TypeScript, React.js, Next.js, Tailwind
 
 This is my personal portfolio website, designed to showcase my skills, recent projects, and work experience as a front-end developer. The site highlights my clean and organized work using modern layouts focusing on intuitive navigation and responsive design. Some sections included are: 
