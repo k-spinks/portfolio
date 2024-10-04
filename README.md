@@ -11,7 +11,7 @@ This is my personal portfolio website, designed to showcase my skills, recent pr
 - **About**: A small section that explains some of my personality traits, tech stack, and what I am currently working on.
 - **Contact**: A section that leads to my social media profiles or allows users to email me directly.
 
-## What I learned 
+## What I learned/Why it was used
 1. Next.JS
 - Utilizing this framework provided features and optimization out of the box which allowed for quicker development and deployment.  
 2. TypeScript
