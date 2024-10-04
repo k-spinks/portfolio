@@ -1,7 +1,7 @@
 # Official Portfolio 
 [My Portfolio](https://kevinspinks.dev/)
 
-![Portfolio Splash](./portfoliosplash.png)
+![Portfolio Splash](../portfoliosplash.png)
 
 ##How its made 
 **Tech used:**HTML, CSS, TypeScript, React.js, Next.js, Tailwind
