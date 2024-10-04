@@ -13,6 +13,6 @@ This is my personal portfolio website, designed to showcase my skills, recent pr
 
 ## What I learned 
 1. Next.JS
-   - Utilizing this framework provided features and optimization out of the box which allowed for quicker development and deployment.  
+- Utilizing this framework provided features and optimization out of the box which allowed for quicker development and deployment.  
 2. TypeScript
-  - Introducing TypeScript to this project allowed me to expand my knowledge on topics/features such as static typing, enhanced editor support, and error prevention. Employing these key aspects allowed for a more robust, maintainable, and error-resistant development experience 
+- Introducing TypeScript to this project allowed me to expand my knowledge on topics/features such as static typing, enhanced editor support, and error prevention. Employing these key aspects allowed for a more robust, maintainable, and error-resistant development experience 
